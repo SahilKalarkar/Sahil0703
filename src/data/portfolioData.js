@@ -270,7 +270,7 @@ export const projects = [
     techTags: ["Next.js", "Node.js", "Express.js", "MySQL"],
     links: {
       github: "https://github.com/SahilKalarkar/gym-management-system_v1",
-      frontendDemo: "https://xyzit.vercel.app/",
+      frontendDemo: "https://powerforgesm.vercel.app/",
     },
     isFlagship: false,
   },
